@@ -1,0 +1,6 @@
+framework module Pods_efi_iosTests {
+  umbrella header "Pods-efi-iosTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

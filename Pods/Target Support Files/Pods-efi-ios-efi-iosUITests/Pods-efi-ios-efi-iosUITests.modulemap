@@ -1,0 +1,6 @@
+framework module Pods_efi_ios_efi_iosUITests {
+  umbrella header "Pods-efi-ios-efi-iosUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
